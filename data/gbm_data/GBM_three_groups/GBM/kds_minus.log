@@ -1,0 +1,402 @@
+2020-01-29 23:08:32,790 - minus_kds.py[line:102] - DEBUG: ---[UNIT:1]---
+2020-01-29 23:08:32,791 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:21
+2020-01-29 23:08:32,791 - minus_kds.py[line:71] - DEBUG: total nodes:['2', '6', '15', '16', '51', '58', '69', '89', '90', '97']
+2020-01-29 23:08:32,791 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,791 - minus_kds.py[line:102] - DEBUG: ---[UNIT:2]---
+2020-01-29 23:08:32,792 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:22
+2020-01-29 23:08:32,792 - minus_kds.py[line:71] - DEBUG: total nodes:['32', '33', '39', '40', '41', '42', '60', '72', '83', '100']
+2020-01-29 23:08:32,792 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,792 - minus_kds.py[line:102] - DEBUG: ---[UNIT:3]---
+2020-01-29 23:08:32,793 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:27
+2020-01-29 23:08:32,793 - minus_kds.py[line:71] - DEBUG: total nodes:['8', '25', '32', '33', '39', '41', '50', '63', '70', '78']
+2020-01-29 23:08:32,794 - minus_kds.py[line:78] - DEBUG: 10
+2020-01-29 23:08:32,794 - minus_kds.py[line:102] - DEBUG: ---[UNIT:4]---
+2020-01-29 23:08:32,794 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:28
+2020-01-29 23:08:32,794 - minus_kds.py[line:71] - DEBUG: total nodes:['2', '6', '21', '25', '26', '30', '33', '89', '91', '93']
+2020-01-29 23:08:32,795 - minus_kds.py[line:78] - DEBUG: 10
+2020-01-29 23:08:32,795 - minus_kds.py[line:102] - DEBUG: ---[UNIT:5]---
+2020-01-29 23:08:32,795 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:16
+2020-01-29 23:08:32,795 - minus_kds.py[line:71] - DEBUG: total nodes:['6', '32', '37', '41', '53', '59', '66', '68', '73', '79']
+2020-01-29 23:08:32,795 - minus_kds.py[line:78] - DEBUG: 7
+2020-01-29 23:08:32,796 - minus_kds.py[line:102] - DEBUG: ---[UNIT:6]---
+2020-01-29 23:08:32,796 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:25
+2020-01-29 23:08:32,796 - minus_kds.py[line:71] - DEBUG: total nodes:['3', '10', '12', '27', '29', '31', '81', '84', '93', '94']
+2020-01-29 23:08:32,796 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,797 - minus_kds.py[line:102] - DEBUG: ---[UNIT:7]---
+2020-01-29 23:08:32,797 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:21
+2020-01-29 23:08:32,797 - minus_kds.py[line:71] - DEBUG: total nodes:['13', '18', '31', '37', '60', '62', '74', '87', '90', '100']
+2020-01-29 23:08:32,797 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,797 - minus_kds.py[line:102] - DEBUG: ---[UNIT:8]---
+2020-01-29 23:08:32,798 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:16
+2020-01-29 23:08:32,798 - minus_kds.py[line:71] - DEBUG: total nodes:['2', '4', '14', '28', '38', '65', '77', '93', '96', '98']
+2020-01-29 23:08:32,798 - minus_kds.py[line:78] - DEBUG: 7
+2020-01-29 23:08:32,798 - minus_kds.py[line:102] - DEBUG: ---[UNIT:9]---
+2020-01-29 23:08:32,799 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:19
+2020-01-29 23:08:32,799 - minus_kds.py[line:71] - DEBUG: total nodes:['6', '22', '36', '39', '40', '56', '76', '84', '93', '100']
+2020-01-29 23:08:32,799 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,799 - minus_kds.py[line:102] - DEBUG: ---[UNIT:10]---
+2020-01-29 23:08:32,799 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:22
+2020-01-29 23:08:32,799 - minus_kds.py[line:71] - DEBUG: total nodes:['4', '6', '8', '20', '27', '34', '55', '62', '90', '95']
+2020-01-29 23:08:32,799 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,800 - minus_kds.py[line:102] - DEBUG: ---[UNIT:11]---
+2020-01-29 23:08:32,800 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:15
+2020-01-29 23:08:32,800 - minus_kds.py[line:71] - DEBUG: total nodes:['9', '37', '59', '65', '69', '74', '82', '86', '95', '97']
+2020-01-29 23:08:32,800 - minus_kds.py[line:78] - DEBUG: 7
+2020-01-29 23:08:32,800 - minus_kds.py[line:102] - DEBUG: ---[UNIT:12]---
+2020-01-29 23:08:32,801 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:21
+2020-01-29 23:08:32,801 - minus_kds.py[line:71] - DEBUG: total nodes:['7', '24', '29', '39', '62', '69', '80', '81', '84', '97']
+2020-01-29 23:08:32,801 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,801 - minus_kds.py[line:102] - DEBUG: ---[UNIT:13]---
+2020-01-29 23:08:32,802 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:23
+2020-01-29 23:08:32,802 - minus_kds.py[line:71] - DEBUG: total nodes:['1', '31', '32', '47', '50', '51', '61', '62', '63', '85']
+2020-01-29 23:08:32,802 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,802 - minus_kds.py[line:102] - DEBUG: ---[UNIT:14]---
+2020-01-29 23:08:32,803 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:26
+2020-01-29 23:08:32,803 - minus_kds.py[line:71] - DEBUG: total nodes:['5', '8', '10', '30', '35', '65', '68', '78', '80', '99']
+2020-01-29 23:08:32,803 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,803 - minus_kds.py[line:102] - DEBUG: ---[UNIT:15]---
+2020-01-29 23:08:32,804 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:14
+2020-01-29 23:08:32,804 - minus_kds.py[line:71] - DEBUG: total nodes:['9', '28', '44', '46', '53', '68', '83', '85', '88', '98']
+2020-01-29 23:08:32,804 - minus_kds.py[line:78] - DEBUG: 7
+2020-01-29 23:08:32,804 - minus_kds.py[line:102] - DEBUG: ---[UNIT:16]---
+2020-01-29 23:08:32,805 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:20
+2020-01-29 23:08:32,805 - minus_kds.py[line:71] - DEBUG: total nodes:['2', '14', '18', '31', '43', '65', '66', '71', '77', '99']
+2020-01-29 23:08:32,805 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,805 - minus_kds.py[line:102] - DEBUG: ---[UNIT:17]---
+2020-01-29 23:08:32,806 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:18
+2020-01-29 23:08:32,806 - minus_kds.py[line:71] - DEBUG: total nodes:['2', '11', '19', '20', '27', '65', '72', '73', '75', '79']
+2020-01-29 23:08:32,806 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,806 - minus_kds.py[line:102] - DEBUG: ---[UNIT:18]---
+2020-01-29 23:08:32,807 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:25
+2020-01-29 23:08:32,807 - minus_kds.py[line:71] - DEBUG: total nodes:['3', '8', '28', '32', '38', '45', '48', '52', '83', '91']
+2020-01-29 23:08:32,807 - minus_kds.py[line:78] - DEBUG: 10
+2020-01-29 23:08:32,807 - minus_kds.py[line:102] - DEBUG: ---[UNIT:19]---
+2020-01-29 23:08:32,807 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:24
+2020-01-29 23:08:32,807 - minus_kds.py[line:71] - DEBUG: total nodes:['13', '18', '22', '39', '52', '64', '65', '74', '75', '84']
+2020-01-29 23:08:32,807 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,808 - minus_kds.py[line:102] - DEBUG: ---[UNIT:20]---
+2020-01-29 23:08:32,808 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:13
+2020-01-29 23:08:32,808 - minus_kds.py[line:71] - DEBUG: total nodes:['3', '20', '21', '45', '51', '53', '59', '60', '61', '95']
+2020-01-29 23:08:32,808 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,808 - minus_kds.py[line:102] - DEBUG: ---[UNIT:21]---
+2020-01-29 23:08:32,809 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:34
+2020-01-29 23:08:32,809 - minus_kds.py[line:71] - DEBUG: total nodes:['3', '12', '26', '27', '30', '51', '81', '87', '90', '91']
+2020-01-29 23:08:32,809 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,809 - minus_kds.py[line:102] - DEBUG: ---[UNIT:22]---
+2020-01-29 23:08:32,810 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:21
+2020-01-29 23:08:32,810 - minus_kds.py[line:71] - DEBUG: total nodes:['6', '9', '16', '23', '29', '44', '53', '65', '70', '99']
+2020-01-29 23:08:32,810 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,810 - minus_kds.py[line:102] - DEBUG: ---[UNIT:23]---
+2020-01-29 23:08:32,810 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:25
+2020-01-29 23:08:32,810 - minus_kds.py[line:71] - DEBUG: total nodes:['4', '19', '34', '42', '56', '71', '77', '82', '88', '89']
+2020-01-29 23:08:32,811 - minus_kds.py[line:78] - DEBUG: 10
+2020-01-29 23:08:32,811 - minus_kds.py[line:102] - DEBUG: ---[UNIT:24]---
+2020-01-29 23:08:32,811 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:26
+2020-01-29 23:08:32,811 - minus_kds.py[line:71] - DEBUG: total nodes:['4', '10', '22', '23', '24', '41', '71', '89', '92', '96']
+2020-01-29 23:08:32,812 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,812 - minus_kds.py[line:102] - DEBUG: ---[UNIT:25]---
+2020-01-29 23:08:32,812 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:19
+2020-01-29 23:08:32,812 - minus_kds.py[line:71] - DEBUG: total nodes:['5', '27', '30', '34', '39', '72', '77', '90', '92', '98']
+2020-01-29 23:08:32,812 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,812 - minus_kds.py[line:102] - DEBUG: ---[UNIT:26]---
+2020-01-29 23:08:32,813 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:23
+2020-01-29 23:08:32,813 - minus_kds.py[line:71] - DEBUG: total nodes:['25', '32', '41', '61', '66', '71', '76', '95', '96', '99']
+2020-01-29 23:08:32,813 - minus_kds.py[line:78] - DEBUG: 10
+2020-01-29 23:08:32,813 - minus_kds.py[line:102] - DEBUG: ---[UNIT:27]---
+2020-01-29 23:08:32,814 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:19
+2020-01-29 23:08:32,814 - minus_kds.py[line:71] - DEBUG: total nodes:['4', '5', '19', '45', '55', '61', '67', '78', '84', '87']
+2020-01-29 23:08:32,814 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,814 - minus_kds.py[line:102] - DEBUG: ---[UNIT:28]---
+2020-01-29 23:08:32,814 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:22
+2020-01-29 23:08:32,814 - minus_kds.py[line:71] - DEBUG: total nodes:['37', '43', '48', '50', '69', '75', '78', '86', '92', '100']
+2020-01-29 23:08:32,815 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,815 - minus_kds.py[line:102] - DEBUG: ---[UNIT:29]---
+2020-01-29 23:08:32,815 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:20
+2020-01-29 23:08:32,815 - minus_kds.py[line:71] - DEBUG: total nodes:['2', '4', '10', '15', '20', '35', '73', '75', '79', '86']
+2020-01-29 23:08:32,815 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,815 - minus_kds.py[line:102] - DEBUG: ---[UNIT:30]---
+2020-01-29 23:08:32,816 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:17
+2020-01-29 23:08:32,816 - minus_kds.py[line:71] - DEBUG: total nodes:['7', '24', '25', '49', '55', '59', '61', '77', '84', '100']
+2020-01-29 23:08:32,816 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,816 - minus_kds.py[line:102] - DEBUG: ---[UNIT:31]---
+2020-01-29 23:08:32,817 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:21
+2020-01-29 23:08:32,817 - minus_kds.py[line:71] - DEBUG: total nodes:['2', '6', '15', '16', '51', '58', '69', '89', '90', '97']
+2020-01-29 23:08:32,817 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,817 - minus_kds.py[line:102] - DEBUG: ---[UNIT:32]---
+2020-01-29 23:08:32,817 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:22
+2020-01-29 23:08:32,817 - minus_kds.py[line:71] - DEBUG: total nodes:['32', '33', '39', '40', '41', '42', '60', '72', '83', '100']
+2020-01-29 23:08:32,817 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,817 - minus_kds.py[line:102] - DEBUG: ---[UNIT:33]---
+2020-01-29 23:08:32,818 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:27
+2020-01-29 23:08:32,818 - minus_kds.py[line:71] - DEBUG: total nodes:['8', '25', '32', '33', '39', '41', '50', '63', '70', '78']
+2020-01-29 23:08:32,818 - minus_kds.py[line:78] - DEBUG: 10
+2020-01-29 23:08:32,818 - minus_kds.py[line:102] - DEBUG: ---[UNIT:34]---
+2020-01-29 23:08:32,819 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:28
+2020-01-29 23:08:32,819 - minus_kds.py[line:71] - DEBUG: total nodes:['2', '6', '21', '25', '26', '30', '33', '89', '91', '93']
+2020-01-29 23:08:32,819 - minus_kds.py[line:78] - DEBUG: 10
+2020-01-29 23:08:32,819 - minus_kds.py[line:102] - DEBUG: ---[UNIT:35]---
+2020-01-29 23:08:32,820 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:16
+2020-01-29 23:08:32,820 - minus_kds.py[line:71] - DEBUG: total nodes:['6', '32', '37', '41', '53', '59', '66', '68', '73', '79']
+2020-01-29 23:08:32,820 - minus_kds.py[line:78] - DEBUG: 7
+2020-01-29 23:08:32,820 - minus_kds.py[line:102] - DEBUG: ---[UNIT:36]---
+2020-01-29 23:08:32,821 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:25
+2020-01-29 23:08:32,821 - minus_kds.py[line:71] - DEBUG: total nodes:['3', '10', '12', '27', '29', '31', '81', '84', '93', '94']
+2020-01-29 23:08:32,821 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,821 - minus_kds.py[line:102] - DEBUG: ---[UNIT:37]---
+2020-01-29 23:08:32,821 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:21
+2020-01-29 23:08:32,822 - minus_kds.py[line:71] - DEBUG: total nodes:['13', '18', '31', '37', '60', '62', '74', '87', '90', '100']
+2020-01-29 23:08:32,822 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,822 - minus_kds.py[line:102] - DEBUG: ---[UNIT:38]---
+2020-01-29 23:08:32,822 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:16
+2020-01-29 23:08:32,822 - minus_kds.py[line:71] - DEBUG: total nodes:['2', '4', '14', '28', '38', '65', '77', '93', '96', '98']
+2020-01-29 23:08:32,822 - minus_kds.py[line:78] - DEBUG: 7
+2020-01-29 23:08:32,822 - minus_kds.py[line:102] - DEBUG: ---[UNIT:39]---
+2020-01-29 23:08:32,823 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:19
+2020-01-29 23:08:32,823 - minus_kds.py[line:71] - DEBUG: total nodes:['6', '22', '36', '39', '40', '56', '76', '84', '93', '100']
+2020-01-29 23:08:32,823 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,823 - minus_kds.py[line:102] - DEBUG: ---[UNIT:40]---
+2020-01-29 23:08:32,824 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:22
+2020-01-29 23:08:32,824 - minus_kds.py[line:71] - DEBUG: total nodes:['4', '6', '8', '20', '27', '34', '55', '62', '90', '95']
+2020-01-29 23:08:32,824 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,824 - minus_kds.py[line:102] - DEBUG: ---[UNIT:41]---
+2020-01-29 23:08:32,824 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:15
+2020-01-29 23:08:32,825 - minus_kds.py[line:71] - DEBUG: total nodes:['9', '37', '59', '65', '69', '74', '82', '86', '95', '97']
+2020-01-29 23:08:32,825 - minus_kds.py[line:78] - DEBUG: 7
+2020-01-29 23:08:32,825 - minus_kds.py[line:102] - DEBUG: ---[UNIT:42]---
+2020-01-29 23:08:32,825 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:21
+2020-01-29 23:08:32,825 - minus_kds.py[line:71] - DEBUG: total nodes:['7', '24', '29', '39', '62', '69', '80', '81', '84', '97']
+2020-01-29 23:08:32,825 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,825 - minus_kds.py[line:102] - DEBUG: ---[UNIT:43]---
+2020-01-29 23:08:32,826 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:23
+2020-01-29 23:08:32,826 - minus_kds.py[line:71] - DEBUG: total nodes:['1', '31', '32', '47', '50', '51', '61', '62', '63', '85']
+2020-01-29 23:08:32,826 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,826 - minus_kds.py[line:102] - DEBUG: ---[UNIT:44]---
+2020-01-29 23:08:32,827 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:26
+2020-01-29 23:08:32,827 - minus_kds.py[line:71] - DEBUG: total nodes:['5', '8', '10', '30', '35', '65', '68', '78', '80', '99']
+2020-01-29 23:08:32,827 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,827 - minus_kds.py[line:102] - DEBUG: ---[UNIT:45]---
+2020-01-29 23:08:32,828 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:14
+2020-01-29 23:08:32,828 - minus_kds.py[line:71] - DEBUG: total nodes:['9', '28', '44', '46', '53', '68', '83', '85', '88', '98']
+2020-01-29 23:08:32,828 - minus_kds.py[line:78] - DEBUG: 7
+2020-01-29 23:08:32,828 - minus_kds.py[line:102] - DEBUG: ---[UNIT:46]---
+2020-01-29 23:08:32,828 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:20
+2020-01-29 23:08:32,829 - minus_kds.py[line:71] - DEBUG: total nodes:['2', '14', '18', '31', '43', '65', '66', '71', '77', '99']
+2020-01-29 23:08:32,829 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,829 - minus_kds.py[line:102] - DEBUG: ---[UNIT:47]---
+2020-01-29 23:08:32,829 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:18
+2020-01-29 23:08:32,829 - minus_kds.py[line:71] - DEBUG: total nodes:['2', '11', '19', '20', '27', '65', '72', '73', '75', '79']
+2020-01-29 23:08:32,829 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,829 - minus_kds.py[line:102] - DEBUG: ---[UNIT:48]---
+2020-01-29 23:08:32,830 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:25
+2020-01-29 23:08:32,830 - minus_kds.py[line:71] - DEBUG: total nodes:['3', '8', '28', '32', '38', '45', '48', '52', '83', '91']
+2020-01-29 23:08:32,830 - minus_kds.py[line:78] - DEBUG: 10
+2020-01-29 23:08:32,830 - minus_kds.py[line:102] - DEBUG: ---[UNIT:49]---
+2020-01-29 23:08:32,831 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:24
+2020-01-29 23:08:32,831 - minus_kds.py[line:71] - DEBUG: total nodes:['13', '18', '22', '39', '52', '64', '65', '74', '75', '84']
+2020-01-29 23:08:32,831 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,831 - minus_kds.py[line:102] - DEBUG: ---[UNIT:50]---
+2020-01-29 23:08:32,832 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:13
+2020-01-29 23:08:32,832 - minus_kds.py[line:71] - DEBUG: total nodes:['3', '20', '21', '45', '51', '53', '59', '60', '61', '95']
+2020-01-29 23:08:32,832 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,832 - minus_kds.py[line:102] - DEBUG: ---[UNIT:51]---
+2020-01-29 23:08:32,832 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:34
+2020-01-29 23:08:32,832 - minus_kds.py[line:71] - DEBUG: total nodes:['3', '12', '26', '27', '30', '51', '81', '87', '90', '91']
+2020-01-29 23:08:32,833 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,833 - minus_kds.py[line:102] - DEBUG: ---[UNIT:52]---
+2020-01-29 23:08:32,833 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:21
+2020-01-29 23:08:32,833 - minus_kds.py[line:71] - DEBUG: total nodes:['6', '9', '16', '23', '29', '44', '53', '65', '70', '99']
+2020-01-29 23:08:32,833 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,833 - minus_kds.py[line:102] - DEBUG: ---[UNIT:53]---
+2020-01-29 23:08:32,834 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:25
+2020-01-29 23:08:32,834 - minus_kds.py[line:71] - DEBUG: total nodes:['4', '19', '34', '42', '56', '71', '77', '82', '88', '89']
+2020-01-29 23:08:32,834 - minus_kds.py[line:78] - DEBUG: 10
+2020-01-29 23:08:32,834 - minus_kds.py[line:102] - DEBUG: ---[UNIT:54]---
+2020-01-29 23:08:32,835 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:26
+2020-01-29 23:08:32,835 - minus_kds.py[line:71] - DEBUG: total nodes:['4', '10', '22', '23', '24', '41', '71', '89', '92', '96']
+2020-01-29 23:08:32,835 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,835 - minus_kds.py[line:102] - DEBUG: ---[UNIT:55]---
+2020-01-29 23:08:32,836 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:19
+2020-01-29 23:08:32,836 - minus_kds.py[line:71] - DEBUG: total nodes:['5', '27', '30', '34', '39', '72', '77', '90', '92', '98']
+2020-01-29 23:08:32,836 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,836 - minus_kds.py[line:102] - DEBUG: ---[UNIT:56]---
+2020-01-29 23:08:32,836 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:23
+2020-01-29 23:08:32,837 - minus_kds.py[line:71] - DEBUG: total nodes:['25', '32', '41', '61', '66', '71', '76', '95', '96', '99']
+2020-01-29 23:08:32,837 - minus_kds.py[line:78] - DEBUG: 10
+2020-01-29 23:08:32,837 - minus_kds.py[line:102] - DEBUG: ---[UNIT:57]---
+2020-01-29 23:08:32,837 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:19
+2020-01-29 23:08:32,838 - minus_kds.py[line:71] - DEBUG: total nodes:['4', '5', '19', '45', '55', '61', '67', '78', '84', '87']
+2020-01-29 23:08:32,838 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,838 - minus_kds.py[line:102] - DEBUG: ---[UNIT:58]---
+2020-01-29 23:08:32,838 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:22
+2020-01-29 23:08:32,838 - minus_kds.py[line:71] - DEBUG: total nodes:['37', '43', '48', '50', '69', '75', '78', '86', '92', '100']
+2020-01-29 23:08:32,839 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,839 - minus_kds.py[line:102] - DEBUG: ---[UNIT:59]---
+2020-01-29 23:08:32,839 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:20
+2020-01-29 23:08:32,839 - minus_kds.py[line:71] - DEBUG: total nodes:['2', '4', '10', '15', '20', '35', '73', '75', '79', '86']
+2020-01-29 23:08:32,839 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,839 - minus_kds.py[line:102] - DEBUG: ---[UNIT:60]---
+2020-01-29 23:08:32,840 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:17
+2020-01-29 23:08:32,840 - minus_kds.py[line:71] - DEBUG: total nodes:['7', '24', '25', '49', '55', '59', '61', '77', '84', '100']
+2020-01-29 23:08:32,840 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,840 - minus_kds.py[line:102] - DEBUG: ---[UNIT:61]---
+2020-01-29 23:08:32,840 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:21
+2020-01-29 23:08:32,841 - minus_kds.py[line:71] - DEBUG: total nodes:['2', '6', '15', '16', '51', '58', '69', '89', '90', '97']
+2020-01-29 23:08:32,841 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,841 - minus_kds.py[line:102] - DEBUG: ---[UNIT:62]---
+2020-01-29 23:08:32,841 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:22
+2020-01-29 23:08:32,841 - minus_kds.py[line:71] - DEBUG: total nodes:['32', '33', '39', '40', '41', '42', '60', '72', '83', '100']
+2020-01-29 23:08:32,841 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,841 - minus_kds.py[line:102] - DEBUG: ---[UNIT:63]---
+2020-01-29 23:08:32,842 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:27
+2020-01-29 23:08:32,842 - minus_kds.py[line:71] - DEBUG: total nodes:['8', '25', '32', '33', '39', '41', '50', '63', '70', '78']
+2020-01-29 23:08:32,842 - minus_kds.py[line:78] - DEBUG: 10
+2020-01-29 23:08:32,842 - minus_kds.py[line:102] - DEBUG: ---[UNIT:64]---
+2020-01-29 23:08:32,843 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:28
+2020-01-29 23:08:32,843 - minus_kds.py[line:71] - DEBUG: total nodes:['2', '6', '21', '25', '26', '30', '33', '89', '91', '93']
+2020-01-29 23:08:32,843 - minus_kds.py[line:78] - DEBUG: 10
+2020-01-29 23:08:32,843 - minus_kds.py[line:102] - DEBUG: ---[UNIT:65]---
+2020-01-29 23:08:32,844 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:16
+2020-01-29 23:08:32,844 - minus_kds.py[line:71] - DEBUG: total nodes:['6', '32', '37', '41', '53', '59', '66', '68', '73', '79']
+2020-01-29 23:08:32,844 - minus_kds.py[line:78] - DEBUG: 7
+2020-01-29 23:08:32,844 - minus_kds.py[line:102] - DEBUG: ---[UNIT:66]---
+2020-01-29 23:08:32,845 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:25
+2020-01-29 23:08:32,845 - minus_kds.py[line:71] - DEBUG: total nodes:['3', '10', '12', '27', '29', '31', '81', '84', '93', '94']
+2020-01-29 23:08:32,845 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,845 - minus_kds.py[line:102] - DEBUG: ---[UNIT:67]---
+2020-01-29 23:08:32,846 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:21
+2020-01-29 23:08:32,846 - minus_kds.py[line:71] - DEBUG: total nodes:['13', '18', '31', '37', '60', '62', '74', '87', '90', '100']
+2020-01-29 23:08:32,846 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,846 - minus_kds.py[line:102] - DEBUG: ---[UNIT:68]---
+2020-01-29 23:08:32,846 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:16
+2020-01-29 23:08:32,846 - minus_kds.py[line:71] - DEBUG: total nodes:['2', '4', '14', '28', '38', '65', '77', '93', '96', '98']
+2020-01-29 23:08:32,846 - minus_kds.py[line:78] - DEBUG: 7
+2020-01-29 23:08:32,847 - minus_kds.py[line:102] - DEBUG: ---[UNIT:69]---
+2020-01-29 23:08:32,847 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:19
+2020-01-29 23:08:32,847 - minus_kds.py[line:71] - DEBUG: total nodes:['6', '22', '36', '39', '40', '56', '76', '84', '93', '100']
+2020-01-29 23:08:32,847 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,847 - minus_kds.py[line:102] - DEBUG: ---[UNIT:70]---
+2020-01-29 23:08:32,848 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:22
+2020-01-29 23:08:32,848 - minus_kds.py[line:71] - DEBUG: total nodes:['4', '6', '8', '20', '27', '34', '55', '62', '90', '95']
+2020-01-29 23:08:32,848 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,848 - minus_kds.py[line:102] - DEBUG: ---[UNIT:71]---
+2020-01-29 23:08:32,848 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:15
+2020-01-29 23:08:32,849 - minus_kds.py[line:71] - DEBUG: total nodes:['9', '37', '59', '65', '69', '74', '82', '86', '95', '97']
+2020-01-29 23:08:32,849 - minus_kds.py[line:78] - DEBUG: 7
+2020-01-29 23:08:32,849 - minus_kds.py[line:102] - DEBUG: ---[UNIT:72]---
+2020-01-29 23:08:32,849 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:21
+2020-01-29 23:08:32,849 - minus_kds.py[line:71] - DEBUG: total nodes:['7', '24', '29', '39', '62', '69', '80', '81', '84', '97']
+2020-01-29 23:08:32,849 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,849 - minus_kds.py[line:102] - DEBUG: ---[UNIT:73]---
+2020-01-29 23:08:32,850 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:23
+2020-01-29 23:08:32,850 - minus_kds.py[line:71] - DEBUG: total nodes:['1', '31', '32', '47', '50', '51', '61', '62', '63', '85']
+2020-01-29 23:08:32,850 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,850 - minus_kds.py[line:102] - DEBUG: ---[UNIT:74]---
+2020-01-29 23:08:32,851 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:26
+2020-01-29 23:08:32,851 - minus_kds.py[line:71] - DEBUG: total nodes:['5', '8', '10', '30', '35', '65', '68', '78', '80', '99']
+2020-01-29 23:08:32,851 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,851 - minus_kds.py[line:102] - DEBUG: ---[UNIT:75]---
+2020-01-29 23:08:32,851 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:14
+2020-01-29 23:08:32,851 - minus_kds.py[line:71] - DEBUG: total nodes:['9', '28', '44', '46', '53', '68', '83', '85', '88', '98']
+2020-01-29 23:08:32,852 - minus_kds.py[line:78] - DEBUG: 7
+2020-01-29 23:08:32,852 - minus_kds.py[line:102] - DEBUG: ---[UNIT:76]---
+2020-01-29 23:08:32,852 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:20
+2020-01-29 23:08:32,852 - minus_kds.py[line:71] - DEBUG: total nodes:['2', '14', '18', '31', '43', '65', '66', '71', '77', '99']
+2020-01-29 23:08:32,852 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,852 - minus_kds.py[line:102] - DEBUG: ---[UNIT:77]---
+2020-01-29 23:08:32,853 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:18
+2020-01-29 23:08:32,853 - minus_kds.py[line:71] - DEBUG: total nodes:['2', '11', '19', '20', '27', '65', '72', '73', '75', '79']
+2020-01-29 23:08:32,853 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,853 - minus_kds.py[line:102] - DEBUG: ---[UNIT:78]---
+2020-01-29 23:08:32,854 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:25
+2020-01-29 23:08:32,854 - minus_kds.py[line:71] - DEBUG: total nodes:['3', '8', '28', '32', '38', '45', '48', '52', '83', '91']
+2020-01-29 23:08:32,854 - minus_kds.py[line:78] - DEBUG: 10
+2020-01-29 23:08:32,854 - minus_kds.py[line:102] - DEBUG: ---[UNIT:79]---
+2020-01-29 23:08:32,855 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:24
+2020-01-29 23:08:32,855 - minus_kds.py[line:71] - DEBUG: total nodes:['13', '18', '22', '39', '52', '64', '65', '74', '75', '84']
+2020-01-29 23:08:32,855 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,855 - minus_kds.py[line:102] - DEBUG: ---[UNIT:80]---
+2020-01-29 23:08:32,855 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:13
+2020-01-29 23:08:32,856 - minus_kds.py[line:71] - DEBUG: total nodes:['3', '20', '21', '45', '51', '53', '59', '60', '61', '95']
+2020-01-29 23:08:32,856 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,856 - minus_kds.py[line:102] - DEBUG: ---[UNIT:81]---
+2020-01-29 23:08:32,856 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:34
+2020-01-29 23:08:32,856 - minus_kds.py[line:71] - DEBUG: total nodes:['3', '12', '26', '27', '30', '51', '81', '87', '90', '91']
+2020-01-29 23:08:32,856 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,856 - minus_kds.py[line:102] - DEBUG: ---[UNIT:82]---
+2020-01-29 23:08:32,857 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:21
+2020-01-29 23:08:32,857 - minus_kds.py[line:71] - DEBUG: total nodes:['6', '9', '16', '23', '29', '44', '53', '65', '70', '99']
+2020-01-29 23:08:32,857 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,857 - minus_kds.py[line:102] - DEBUG: ---[UNIT:83]---
+2020-01-29 23:08:32,858 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:25
+2020-01-29 23:08:32,858 - minus_kds.py[line:71] - DEBUG: total nodes:['4', '19', '34', '42', '56', '71', '77', '82', '88', '89']
+2020-01-29 23:08:32,858 - minus_kds.py[line:78] - DEBUG: 10
+2020-01-29 23:08:32,858 - minus_kds.py[line:102] - DEBUG: ---[UNIT:84]---
+2020-01-29 23:08:32,859 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:26
+2020-01-29 23:08:32,859 - minus_kds.py[line:71] - DEBUG: total nodes:['4', '10', '22', '23', '24', '41', '71', '89', '92', '96']
+2020-01-29 23:08:32,859 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,859 - minus_kds.py[line:102] - DEBUG: ---[UNIT:85]---
+2020-01-29 23:08:32,859 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:19
+2020-01-29 23:08:32,859 - minus_kds.py[line:71] - DEBUG: total nodes:['5', '27', '30', '34', '39', '72', '77', '90', '92', '98']
+2020-01-29 23:08:32,859 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,860 - minus_kds.py[line:102] - DEBUG: ---[UNIT:86]---
+2020-01-29 23:08:32,860 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:23
+2020-01-29 23:08:32,860 - minus_kds.py[line:71] - DEBUG: total nodes:['25', '32', '41', '61', '66', '71', '76', '95', '96', '99']
+2020-01-29 23:08:32,860 - minus_kds.py[line:78] - DEBUG: 10
+2020-01-29 23:08:32,860 - minus_kds.py[line:102] - DEBUG: ---[UNIT:87]---
+2020-01-29 23:08:32,861 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:19
+2020-01-29 23:08:32,861 - minus_kds.py[line:71] - DEBUG: total nodes:['4', '5', '19', '45', '55', '61', '67', '78', '84', '87']
+2020-01-29 23:08:32,861 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,861 - minus_kds.py[line:102] - DEBUG: ---[UNIT:88]---
+2020-01-29 23:08:32,862 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:22
+2020-01-29 23:08:32,862 - minus_kds.py[line:71] - DEBUG: total nodes:['37', '43', '48', '50', '69', '75', '78', '86', '92', '100']
+2020-01-29 23:08:32,862 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,862 - minus_kds.py[line:102] - DEBUG: ---[UNIT:89]---
+2020-01-29 23:08:32,863 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:20
+2020-01-29 23:08:32,863 - minus_kds.py[line:71] - DEBUG: total nodes:['2', '4', '10', '15', '20', '35', '73', '75', '79', '86']
+2020-01-29 23:08:32,863 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,863 - minus_kds.py[line:102] - DEBUG: ---[UNIT:90]---
+2020-01-29 23:08:32,863 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:17
+2020-01-29 23:08:32,863 - minus_kds.py[line:71] - DEBUG: total nodes:['7', '24', '25', '49', '55', '59', '61', '77', '84', '100']
+2020-01-29 23:08:32,863 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,864 - minus_kds.py[line:102] - DEBUG: ---[UNIT:91]---
+2020-01-29 23:08:32,864 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:21
+2020-01-29 23:08:32,864 - minus_kds.py[line:71] - DEBUG: total nodes:['2', '6', '15', '16', '51', '58', '69', '89', '90', '97']
+2020-01-29 23:08:32,864 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,864 - minus_kds.py[line:102] - DEBUG: ---[UNIT:92]---
+2020-01-29 23:08:32,865 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:22
+2020-01-29 23:08:32,865 - minus_kds.py[line:71] - DEBUG: total nodes:['32', '33', '39', '40', '41', '42', '60', '72', '83', '100']
+2020-01-29 23:08:32,865 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,865 - minus_kds.py[line:102] - DEBUG: ---[UNIT:93]---
+2020-01-29 23:08:32,866 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:27
+2020-01-29 23:08:32,866 - minus_kds.py[line:71] - DEBUG: total nodes:['8', '25', '32', '33', '39', '41', '50', '63', '70', '78']
+2020-01-29 23:08:32,866 - minus_kds.py[line:78] - DEBUG: 10
+2020-01-29 23:08:32,866 - minus_kds.py[line:102] - DEBUG: ---[UNIT:94]---
+2020-01-29 23:08:32,867 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:28
+2020-01-29 23:08:32,867 - minus_kds.py[line:71] - DEBUG: total nodes:['2', '6', '21', '25', '26', '30', '33', '89', '91', '93']
+2020-01-29 23:08:32,867 - minus_kds.py[line:78] - DEBUG: 10
+2020-01-29 23:08:32,867 - minus_kds.py[line:102] - DEBUG: ---[UNIT:95]---
+2020-01-29 23:08:32,867 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:16
+2020-01-29 23:08:32,867 - minus_kds.py[line:71] - DEBUG: total nodes:['6', '32', '37', '41', '53', '59', '66', '68', '73', '79']
+2020-01-29 23:08:32,867 - minus_kds.py[line:78] - DEBUG: 7
+2020-01-29 23:08:32,867 - minus_kds.py[line:102] - DEBUG: ---[UNIT:96]---
+2020-01-29 23:08:32,868 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:25
+2020-01-29 23:08:32,868 - minus_kds.py[line:71] - DEBUG: total nodes:['3', '10', '12', '27', '29', '31', '81', '84', '93', '94']
+2020-01-29 23:08:32,868 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,869 - minus_kds.py[line:102] - DEBUG: ---[UNIT:97]---
+2020-01-29 23:08:32,869 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:21
+2020-01-29 23:08:32,869 - minus_kds.py[line:71] - DEBUG: total nodes:['13', '18', '31', '37', '60', '62', '74', '87', '90', '100']
+2020-01-29 23:08:32,869 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,870 - minus_kds.py[line:102] - DEBUG: ---[UNIT:98]---
+2020-01-29 23:08:32,870 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:16
+2020-01-29 23:08:32,870 - minus_kds.py[line:71] - DEBUG: total nodes:['2', '4', '14', '28', '38', '65', '77', '93', '96', '98']
+2020-01-29 23:08:32,870 - minus_kds.py[line:78] - DEBUG: 7
+2020-01-29 23:08:32,870 - minus_kds.py[line:102] - DEBUG: ---[UNIT:99]---
+2020-01-29 23:08:32,871 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:19
+2020-01-29 23:08:32,871 - minus_kds.py[line:71] - DEBUG: total nodes:['6', '22', '36', '39', '40', '56', '76', '84', '93', '100']
+2020-01-29 23:08:32,871 - minus_kds.py[line:78] - DEBUG: 8
+2020-01-29 23:08:32,871 - minus_kds.py[line:102] - DEBUG: ---[UNIT:100]---
+2020-01-29 23:08:32,872 - minus_kds.py[line:70] - DEBUG: minus_res_nodes:22
+2020-01-29 23:08:32,872 - minus_kds.py[line:71] - DEBUG: total nodes:['4', '6', '8', '20', '27', '34', '55', '62', '90', '95']
+2020-01-29 23:08:32,872 - minus_kds.py[line:78] - DEBUG: 9
+2020-01-29 23:08:32,872 - minus_kds.py[line:109] - DEBUG: ---[TOTAL:856]---
+2020-01-29 23:08:32,872 - minus_kds.py[line:111] - DEBUG: ---[TOTAL MINUS NETWORK :2143]---

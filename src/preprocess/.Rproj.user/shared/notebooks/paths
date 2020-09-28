@@ -1,0 +1,5 @@
+/Users/jiaminsun/expsjm/CKDS/bio/src/preprocess/1.select_group_data.r="434466A3"
+/Users/jiaminsun/expsjm/CKDS/bio/src/preprocess/2.differential_expression_by_edgeR.r="C22E425A"
+/Users/jiaminsun/expsjm/CKDS/bio/src/preprocess/3.network_usnig_new_gene.r="3DA32F20"
+/Users/jiaminsun/expsjm/CKDS/bio/src/preprocess/4.goanalysis.r="94D9B05"
+/Users/jiaminsun/expsjm/CKDS/bio/src/preprocess/5.netanalysis.r="9AA463EB"

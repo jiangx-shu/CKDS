@@ -1,0 +1,29 @@
+,Cluster,moduleKDS,ID,Description,GeneRatio,BgRatio,pvalue,p.adjust,qvalue,geneID,Count
+1,Ast_NPC,Ast_NPC,mmu04961,Endocrine and other factor-regulated calcium reabsorption,6/82,57/8628,1.51E-05,0.001197517,0.00085769,"Ap2b1,Atp1a2,Atp1b3,Prkacb,Atp1b2,Dnm3",6
+2,Ast_NPC,Ast_NPC,mmu05205,Proteoglycans in cancer,10/82,206/8628,2.31E-05,0.001197517,0.00085769,"Prkacb,Trp53,Braf,Rhoa,Ppp1r12a,Actb,Mras,Sdc4,Sdc2,Ppp1cb",10
+3,Ast_NPC,Ast_NPC,mmu04530,Tight junction,9/82,167/8628,2.68E-05,0.001197517,0.00085769,"Nedd4,Prkacb,Prkci,Ppp2r2d,Ppp2r2a,Arhgef18,Rhoa,Actb,Myl12a",9
+4,Ast_NPC,Ast_NPC,mmu04137,Mitophagy - animal,6/82,63/8628,2.70E-05,0.001197517,0.00085769,"Gabarapl1,Ubb,Trp53,Gabarapl2,Mras,Fis1",6
+5,Ast_NPC,Ast_NPC,mmu04024,cAMP signaling pathway,10/82,213/8628,3.09E-05,0.001197517,0.00085769,"Atp1a2,Atp1b3,Fxyd1,Prkacb,Atp1b2,Braf,Acox1,Rhoa,Ppp1r12a,Ppp1cb",10
+6,Ast_NPC,Ast_NPC,mmu04611,Platelet activation,7/82,125/8628,0.000174909,0.005655396,0.004050528,"Prkacb,Prkci,Rhoa,Ppp1r12a,Actb,Ppp1cb,Myl12a",7
+7,Ast_NPC,Ast_NPC,mmu04144,Endocytosis,10/82,270/8628,0.000223405,0.006191505,0.004434501,"Ap2b1,Nedd4,Vps4b,Ubb,Arf1,Prkci,Capza2,Rhoa,Hspa8,Dnm3",10
+8,Ast_NPC,Ast_NPC,mmu01212,Fatty acid metabolism,5/82,61/8628,0.000268831,0.006519143,0.004669163,"Acox1,Fasn,Acsl3,Acsbg1,Acadl",5
+9,Ast_NPC,Ast_NPC,mmu05418,Fluid shear stress and atherosclerosis,7/82,143/8628,0.000399763,0.00861712,0.006171784,"Hsp90aa1,Hsp90ab1,Trp53,Rhoa,Actb,Sdc4,Sdc2",7
+10,Ast_NPC,Ast_NPC,mmu04261,Adrenergic signaling in cardiomyocytes,7/82,152/8628,0.000577463,0.011070476,0.007928935,"Atp1a2,Atp1b3,Prkacb,Atp1b2,Ppp2r2d,Ppp2r2a,Ppp1cb",7
+11,Ast_NPC,Ast_NPC,mmu04971,Gastric acid secretion,5/82,74/8628,0.000661078,0.011070476,0.007928935,"Atp1a2,Atp1b3,Prkacb,Atp1b2,Actb",5
+12,Ast_NPC,Ast_NPC,mmu00061,Fatty acid biosynthesis,3/82,19/8628,0.000718403,0.011070476,0.007928935,"Fasn,Acsl3,Acsbg1",3
+13,Ast_NPC,Ast_NPC,mmu04970,Salivary secretion,5/82,78/8628,0.000841095,0.011070476,0.007928935,"Atp1a2,Atp1b3,Prkacb,Atp1b2,Vamp2",5
+14,Ast_NPC,Ast_NPC,mmu04919,Thyroid hormone signaling pathway,6/82,118/8628,0.00086552,0.011070476,0.007928935,"Atp1a2,Atp1b3,Prkacb,Trp53,Atp1b2,Actb",6
+15,Ast_NPC,Ast_NPC,mmu04141,Protein processing in endoplasmic reticulum,7/82,163/8628,0.000874558,0.011070476,0.007928935,"Ube4b,Hsp90aa1,Rpn2,Hsp90ab1,Ube2g1,Dnaja1,Hspa8",7
+16,Ast_NPC,Ast_NPC,mmu03050,Proteasome,4/82,46/8628,0.000913029,0.011070476,0.007928935,"Psma6,Psmd7,Psmc3,Psmb2",4
+17,Ast_NPC,Ast_NPC,mmu04810,Regulation of actin cytoskeleton,8/82,217/8628,0.001013964,0.011571122,0.00828751,"Itgb8,Braf,Rhoa,Ppp1r12a,Actb,Mras,Ppp1cb,Myl12a",8
+18,Ast_NPC,Ast_NPC,mmu04964,Proximal tubule bicarbonate reclamation,3/82,22/8628,0.001118515,0.012055103,0.008634149,"Atp1a2,Atp1b3,Atp1b2",3
+19,Ast_NPC,Ast_NPC,mmu00071,Fatty acid degradation,4/82,50/8628,0.001252,0.012685993,0.009086007,"Acox1,Acsl3,Acsbg1,Acadl",4
+20,Ast_NPC,Ast_NPC,mmu04911,Insulin secretion,5/82,86/8628,0.001307834,0.012685993,0.009086007,"Atp1a2,Atp1b3,Prkacb,Atp1b2,Vamp2",5
+21,Ast_NPC,Ast_NPC,mmu03320,PPAR signaling pathway,5/82,87/8628,0.001377366,0.012724234,0.009113396,"Acox1,Slc27a1,Acsl3,Acsbg1,Acadl",5
+22,Ast_NPC,Ast_NPC,mmu04510,Focal adhesion,7/82,199/8628,0.002755239,0.024296196,0.017401508,"Itgb8,Braf,Rhoa,Ppp1r12a,Actb,Ppp1cb,Myl12a",7
+23,Ast_NPC,Ast_NPC,mmu04130,SNARE interactions in vesicular transport,3/82,33/8628,0.003675913,0.031005531,0.022206891,"Vamp3,Vamp2,Bet1",3
+24,Ast_NPC,Ast_NPC,mmu04976,Bile secretion,4/82,72/8628,0.004776802,0.038612485,0.027655171,"Atp1a2,Atp1b3,Prkacb,Atp1b2",4
+25,Ast_NPC,Ast_NPC,mmu04918,Thyroid hormone synthesis,4/82,73/8628,0.005017719,0.038937499,0.027887954,"Atp1a2,Atp1b3,Prkacb,Atp1b2",4
+26,Ast_NPC,Ast_NPC,mmu04960,Aldosterone-regulated sodium reabsorption,3/82,38/8628,0.005493421,0.040989372,0.029357554,"Atp1a2,Atp1b3,Atp1b2",3
+27,Ast_NPC,Ast_NPC,mmu04722,Neurotrophin signaling pathway,5/82,121/8628,0.00576813,0.041094048,0.029432525,"Psen1,Trp53,Braf,Rhoa,Arhgdia",5
+28,Ast_NPC,Ast_NPC,mmu04022,cGMP-PKG signaling pathway,6/82,173/8628,0.0059311,0.041094048,0.029432525,"Atp1a2,Atp1b3,Atp1b2,Rhoa,Ppp1r12a,Ppp1cb",6
